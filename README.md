@@ -1,2 +1,8 @@
-# medical-insurance-risk-analysis
-A statistical analysis of medical insurance data using Python. Investigates the impact of smoking and gender on medical charges through parametric (T-test) and nonparametric (Mann-Whitney U) hypothesis testing.
+# Medical Insurance Risk Analysis
+Validating actuarial risk models through statistical hypothesis testing.
+
+Key Findings:
+
+Gender Bias: No statistical difference in BMI between males and females (T-Test).
+
+Smoker Impact: Smokers incur median costs nearly 5x higher than non-smokers (Mann-Whitney U).
